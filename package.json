@@ -1,0 +1,20 @@
+{
+  "name": "dependencyInversion.2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^23.3.13",
+    "ts-jest": "^23.10.5"
+  },
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.3.0-dev.20190119"
+  },
+  "description": ""
+}
